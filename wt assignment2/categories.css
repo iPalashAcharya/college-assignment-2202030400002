@@ -1,0 +1,603 @@
+.categories {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  .header {
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 17px;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  .div-tt-top-panel {
+    background: #0F0F0F;
+    margin-bottom: 13px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 13px 0 14px 0.4px;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  .use-sf-15-for-a-flat-15-off-on-your-first-order {
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #FFFFFF;
+  }
+  .link-final-logo-240-x-webp {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/KxbxfUEeRywM5eu85JExaj/assets/images/b5fe5bf303d8dd86efdc03cf0a644009aefad6b9?Expires=1711704724&KeyName=fn12-cdn&Signature=UBnGDFo7Rsge-27oyVG33m-z6ms=');
+    width: 40px;
+    height: 49px;
+  }
+  .nav-list-item-link-home {
+    margin: 0 12px 0px 0;
+    display: inline-block;
+    width: 57.9px;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.1;
+    color: #191919;
+  }
+  .nav-list-item-link-collections {
+    margin: 0 2px 0px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.1;
+    color: #B4985B;
+  }
+  .symbol {
+    margin-top: 13px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 1.1;
+    color: #999999;
+  }
+  .nav-list-item-link-categories {
+    margin: 0 2px 0px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.1;
+    color: #B4985B;
+  }
+  .symbol-1 {
+    margin-top: 13px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 1.1;
+    color: #999999;
+  }
+  .nav-list-item-link-about-us {
+    margin-bottom: 0px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.1;
+    color: #191919;
+  }
+  .nav-list-item-link-contact-us {
+    margin-bottom: 0px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 1.1;
+    color: #191919;
+  }
+  .symbol-2 {
+    margin-right: 11.5px;
+    width: 30.9px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 1;
+    color: #B4985B;
+  }
+  .symbol-3 {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 1;
+    color: #B4985B;
+  }
+  .div-tt-breadcrumb {
+    background: #F7F8FA;
+    display: flex;
+    flex-direction: row;
+    padding: 4px 0;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  .list-item-link-home {
+    margin-right: 6px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 1.833;
+    color: #777777;
+  }
+  .list-item {
+    margin-right: 6.2px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 1.833;
+    color: #777777;
+  }
+  .list-item-collections {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 1.833;
+    color: #777777;
+  }
+  .link-9-blaugrana-1680-x-jpg {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/KxbxfUEeRywM5eu85JExaj/assets/images/9bc20b8faac46cff3b0f0e5baf4efaac71fb7921?Expires=1711704724&KeyName=fn12-cdn&Signature=RciDU0j7xTN3ZoPo6uX6fMHhxbg=');
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 413px 0 411px 0.4px;
+    width: 680px;
+    box-sizing: border-box;
+  }
+  .div-tt-background {
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.9);
+    position: absolute;
+    left: 50%;
+    top: 400px;
+    translate: -50% 0;
+    width: 136.5px;
+    height: 50px;
+  }
+  .legacies {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #191919;
+  }
+  .link-agueroo-1680-x-webp {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/KxbxfUEeRywM5eu85JExaj/assets/images/e144c50156c20dc5dd6173de64c6304d4d7e4397?Expires=1711704724&KeyName=fn12-cdn&Signature=o87zXHnOr6DYcr29FNB5_kR4ud0=');
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 413px 0 411px 0.4px;
+    width: 680px;
+    box-sizing: border-box;
+  }
+  .div-tt-background-4 {
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.9);
+    position: absolute;
+    left: 50%;
+    top: 400px;
+    translate: -50% 0;
+    width: 139.2px;
+    height: 50px;
+  }
+  .moments {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #191919;
+  }
+  .link-shopify-mobile-slider-2447-x-jpg {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/KxbxfUEeRywM5eu85JExaj/assets/images/a1586dc573c9321f12dbe1d587642dc8256d0a51?Expires=1711704724&KeyName=fn12-cdn&Signature=21yJb1j6HTT_8XPRVxHOaszDZ1o=');
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 267.3px 0 265.3px 0.4px;
+    width: 446.7px;
+    box-sizing: border-box;
+  }
+  .div-tt-background-5 {
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.9);
+    position: absolute;
+    left: 50%;
+    top: 254.3px;
+    translate: -50% 0;
+    width: 140.6px;
+    height: 50px;
+  }
+  .baseball {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #191919;
+  }
+  .link-3-star-black-1447-x-webp {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/KxbxfUEeRywM5eu85JExaj/assets/images/4964dd028ee712f3fe13de234751aef06ddfa900?Expires=1711704724&KeyName=fn12-cdn&Signature=uetmzulRKITmf2K99XgKPBXHWfE=');
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 267.3px 0 265.3px 0.3px;
+    width: 446.7px;
+    box-sizing: border-box;
+  }
+  .div-tt-background-6 {
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.9);
+    position: absolute;
+    left: 50%;
+    top: 254.3px;
+    translate: -50% 0;
+    width: 163.9px;
+    height: 50px;
+  }
+  .sweatshirts {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #191919;
+  }
+  .link-corner-taken-quickly-1447-x-webp {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/KxbxfUEeRywM5eu85JExaj/assets/images/bef9d3a95135b61c0b6879a60d033a6bc57f8099?Expires=1711704724&KeyName=fn12-cdn&Signature=YDrpM_fulFDKmCQDQY2qdGc66rU=');
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 267.3px 0 265.3px 0.3px;
+    width: 446.7px;
+    box-sizing: border-box;
+  }
+  .div-tt-background-7 {
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.9);
+    position: absolute;
+    left: 50%;
+    top: 254.3px;
+    translate: -50% 0;
+    width: 145.8px;
+    height: 50px;
+  }
+  .oversized {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #191919;
+  }
+  .link-blaugrana-blue-2680-x-webp {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/KxbxfUEeRywM5eu85JExaj/assets/images/b971c15754898407ee5f585dbbbdfc28515d5c78?Expires=1711704724&KeyName=fn12-cdn&Signature=F87yT2sUCht-YwrCs0G2DQo-bog=');
+    position: relative;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 413px 0 411px 0.3px;
+    width: 680px;
+    box-sizing: border-box;
+  }
+  .div-tt-background-8 {
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.9);
+    position: absolute;
+    left: 50%;
+    top: 400px;
+    translate: -50% 0;
+    width: 116.4px;
+    height: 50px;
+  }
+  .cuban {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #191919;
+  }
+  .link-samurai-7-poster-680-x-jpg {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-asia-southeast1/projects/KxbxfUEeRywM5eu85JExaj/assets/images/2e207f7904eae3a9df5ed30471c46eab9ae7d2b0?Expires=1711704724&KeyName=fn12-cdn&Signature=5QvWoLt9bi31KSUcBFpew6yCZ74=');
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 413px 0 411px 0.4px;
+    width: 680px;
+    box-sizing: border-box;
+  }
+  .div-tt-background-9 {
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.9);
+    position: absolute;
+    left: 50%;
+    top: 400px;
+    translate: -50% 0;
+    width: 133.9px;
+    height: 50px;
+  }
+  .posters {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #191919;
+  }
+  .footer {
+    background: #0C1929;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  .div-tt-footer-col {
+    background: #0C1929;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 54px 0 56px 0;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  .we-aim-to-make-shop-football-your-one-stop-destination-for-everything-related-to-football {
+    margin: 0 25.5px 6px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .heading-4-shopfootball {
+    margin-right: 13px;
+    width: 453.7px;
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #FFFFFF;
+  }
+  .list-item-link-privacy-policy {
+    margin-bottom: 6px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .list-item-link-return-policy {
+    margin-right: 3.8px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .list-item-link-shipping-cancellation-policy {
+    margin-right: 11px;
+    width: 455.7px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .list-item-link-terms-conditions {
+    margin-left: 35.1px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .heading-4-quick-links {
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #FFFFFF;
+  }
+  .list-item-link-about-us {
+    margin-bottom: 6px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .list-item-link-shop {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .list-item-link-contact-us {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .heading-4-information {
+    overflow-wrap: break-word;
+    font-family: 'Oswald';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.625;
+    color: #FFFFFF;
+  }
+  .div-tt-footer-custom {
+    background: #0C1929;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 29px 886.9px 17px 0;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  .shopfootball-owned-by-the-mimema-company-all-rights-reserved {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #FFFFFF;
+  }
+  .container {
+    margin: 14.4px 0 10.6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 497.8px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-10 {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1018.6px;
+    box-sizing: border-box;
+  }
+  .container-11 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .container-12 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .container-13 {
+    margin: 0 24.5px 0 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1875.5px;
+    box-sizing: border-box;
+  }
+  .container-14 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 1380px;
+    box-sizing: border-box;
+  }
+  .container-15 {
+    margin: 14.5px 0 11.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 56.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-16 {
+    margin: 0 0px 20px 0;
+    display: flex;
+    flex-direction: row;
+    width: 1380px;
+    box-sizing: border-box;
+  }
+  .container-17 {
+    margin: 0 29.1px 6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 989.6px;
+    box-sizing: border-box;
+  }
+  .container-18 {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 1380px;
+    box-sizing: border-box;
+  }
+  .container-19 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .container-20 {
+    margin-right: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .container-21 {
+    margin: 0 0 6px 449.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 534.7px;
+    box-sizing: border-box;
+  }
+  .container-22 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }

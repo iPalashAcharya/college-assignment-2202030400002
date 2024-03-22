@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <style>
+    .login-container {
+      background-color: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  
+    .login-content {
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      position: relative;
+      min-height: 982px;
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+      padding: 80px 60px;
+    }
+  
+    @media (max-width: 991px) {
+      .login-content {
+        max-width: 100%;
+        padding: 0 20px;
+      }
+    }
+  
+    .background-image {
+      position: absolute;
+      inset: 0;
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+  
+    .login-form {
+      position: relative;
+      display: flex;
+      width: 312px;
+      max-width: 100%;
+      flex-direction: column;
+      margin: 59px 0 187px 123px;
+    }
+  
+    @media (max-width: 991px) {
+      .login-form {
+        margin: 40px 0;
+      }
+    }
+  
+    .logo-image {
+      aspect-ratio: 1.22;
+      object-fit: contain;
+      width: 119px;
+      align-self: center;
+      max-width: 100%;
+    }
+  
+    .username-label {
+      background-color: #d9d9d9;
+      z-index: 10;
+      margin-top: 41px;
+      color: #000;
+      padding: 13px 25px 26px;
+      font: 500 16px/94% Oswald, sans-serif;
+    }
+  
+    @media (max-width: 991px) {
+      .username-label {
+        margin-top: 40px;
+        padding: 0 20px;
+      }
+    }
+  
+    .username-input {
+      border-radius: 4px;
+      border: 1px solid #fff;
+      color: #fff;
+      text-align: center;
+      text-transform: uppercase;
+      padding: 18px 53px;
+      font: 300 14px/143% Montserrat, sans-serif;
+    }
+  
+    @media (max-width: 991px) {
+      .username-input {
+        padding: 0 20px;
+      }
+    }
+  
+    .password-container {
+      border-radius: 4px;
+      border: 1px solid #fff;
+      display: flex;
+      margin-top: 20px;
+      flex-direction: column;
+      padding: 0 40px 12px 11px;
+    }
+  
+    @media (max-width: 991px) {
+      .password-container {
+        padding-right: 20px;
+      }
+    }
+  
+    .password-label {
+      background-color: #d9d9d9;
+      z-index: 10;
+      margin-top: -22px;
+      color: #000;
+      padding: 9px 29px 20px;
+      font: 500 16px/94% Oswald, sans-serif;
+    }
+  
+    @media (max-width: 991px) {
+      .password-label {
+        padding: 0 20px;
+      }
+    }
+  
+    .password-input-wrapper {
+      display: flex;
+      margin-top: -10px;
+      gap: 20px;
+      font-size: 14px;
+      color: #fff;
+      font-weight: 300;
+      text-align: center;
+      text-transform: uppercase;
+      line-height: 143%;
+    }
+  
+    .password-icon {
+      aspect-ratio: 1;
+      object-fit: contain;
+      width: 20px;
+    }
+  
+    .password-input {
+      font-family: Montserrat, sans-serif;
+      flex-grow: 1;
+      margin: auto 0;
+    }
+  
+    .login-button {
+      border-radius: 4px;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.3);
+      background-color: #fff;
+      margin-top: 43px;
+      color: #b4985b;
+      text-align: center;
+      text-transform: uppercase;
+      padding: 17px 60px;
+      font: 600 16px Montserrat, sans-serif;
+    }
+  
+    @media (max-width: 991px) {
+      .login-button {
+        margin-top: 40px;
+        padding: 0 20px;
+      }
+    }
+  
+    .forgot-password-container {
+      align-self: end;
+      display: flex;
+      margin-top: 15px;
+      width: 160px;
+      max-width: 100%;
+      flex-direction: column;
+      color: #000;
+      text-align: center;
+    }
+  
+    @media (max-width: 991px) {
+      .forgot-password-container {
+        margin-right: 10px;
+      }
+    }
+  
+    .forgot-password-link {
+      align-self: start;
+      margin-left: 17px;
+      font: 500 16px Montserrat, sans-serif;
+    }
+  
+    @media (max-width: 991px) {
+      .forgot-password-link {
+        margin-left: 10px;
+      }
+    }
+  
+    .separator {
+      text-transform: uppercase;
+      margin-top: 31px;
+      font: 600 24px/20px Montserrat, sans-serif;
+    }
+  
+    .create-account-button {
+      border-radius: 4px;
+      box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.3);
+      background-color: #fff;
+      align-self: start;
+      color: #b4985b;
+      text-align: center;
+      text-transform: uppercase;
+      margin: 19px 0 0 12px;
+      padding: 17px 60px;
+      font: 600 16px Montserrat, sans-serif;
+    }
+  
+    @media (max-width: 991px) {
+      .create-account-button {
+        margin-left: 10px;
+        padding: 0 20px;
+      }
+    }
+  </style>
+  
+  <main class="login-container">
+    <section class="login-content">
+      <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/6babcd7f670996ef1ca3ee0f678a0011c0cf76e0ed1fc5d1133c63da9fccf4e2?apiKey=5c6a509c51cd4ecb9a1956845c9dc60e&" alt="" class="background-image" />
+      <form class="login-form">
+        <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/5f1e465e90edbed778bd40a4954796b093d0ff5ffcc2924de0f190767536208b?apiKey=5c6a509c51cd4ecb9a1956845c9dc60e&" alt="Logo" class="logo-image" />
+        <label for="username" class="visually-hidden">Username</label>
+        <input type="text" id="username" class="username-input" placeholder="Username" aria-label="Username" />
+        <div class="password-container">
+          <label for="password" class="visually-hidden">Password</label>
+          <div class="password-input-wrapper">
+            <img src="https://cdn.builder.io/api/v1/image/assets/TEMP/959bc9f9dbffa09d8693a4a03b5d3582b1ee3c7f0a1b8eb2b3201a8fb82fc5d7?apiKey=5c6a509c51cd4ecb9a1956845c9dc60e&" alt="" class="password-icon" />
+            <input type="password" id="password" class="password-input" placeholder="Password" aria-label="Password" />
+          </div>
+        </div>
+        <button type="submit" class="login-button">Login</button>
+        <div class="forgot-password-container">
+          <a href="#" class="forgot-password-link">Forgot password?</a>
+          <div class="separator">Or</div>
+        </div>
+        <a href="#" class="create-account-button">Create account</a>
+      </form>
+    </section>
+  </main>
+</body>
+</html>
